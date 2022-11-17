@@ -1,0 +1,19 @@
+{
+  "name": "terf",
+  "version": "1.0.0",
+  "description": "<br>\r TERF is a FiveM framework designed for an ultra realistic roleplay experience. The TERF core resource contains everything required to start your own roleplay server with ease.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacaw99/TERF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacaw99/TERF/issues"
+  },
+  "homepage": "https://github.com/zacaw99/TERF#readme",
+  "dependencies": {
+    "mongoose": "^6.7.2",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "server": {
+        "max_players": 32,
+        "closed": false
+    },
+    "core": {
+        
+    },
+    "permissions": {
+        "default_rank": "player",
+        "admin": {
+            "displayName": "Admin",
+            "permissions": {
+
+            }
+        },
+        "player": {
+            "displayName": "",
+            "permissions": {
+
+            }
+        }
+    }
+}
